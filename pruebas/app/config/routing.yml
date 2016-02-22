@@ -1,0 +1,7 @@
+ludwing_inicio:
+    resource: "@LudwingInicioBundle/Controller/"
+    prefix:   /
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
